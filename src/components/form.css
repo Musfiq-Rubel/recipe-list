@@ -1,0 +1,22 @@
+form{
+    width: 400px;
+    margin-top: 60px ;
+    margin-left: 20px;
+    float: left;
+    
+}
+
+label{
+    font-size: 18px;
+    font-family:roboto;
+    color:coral;
+    font-weight: 900;
+
+}
+
+.coral-background {background-color:cornflowerblue;
+    margin-top: 10px;
+}
+.white {color:#ffffff;}
+
+
